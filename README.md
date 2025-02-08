@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hey%2C+I'm+Tanima+Das!+%F0%9F%91%8B;+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hey%2C+I'm+Tanima+Das!+%F0%9F%91%8B;++++Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,20 +17,13 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanima7&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanima7&theme=radical" width="50%" />
-</p>
-
----
 
 ## 📫 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/tanima-das-3b4289282">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tanimadas700@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/tanima_das_">
