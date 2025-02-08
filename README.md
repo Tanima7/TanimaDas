@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hey%2C+I'm+Tanima+Das!+%F0%9F%91%8B;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Hey%2C+I'm+Tanima+Das!+%F0%9F%91%8B;+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanima-das&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanima-das&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanima7&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanima7&theme=radical" width="50%" />
 </p>
 
 ---
