@@ -33,6 +33,6 @@
 
 ---
 
-💡 *"Striving to learn something new every day!"* 🚀
+💡 **Looking forward to learning and collaborating!**
 
 
